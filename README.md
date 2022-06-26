@@ -2,13 +2,13 @@
 # Digital Circuit Designer (Set & Board)
   
 
-### 1. Education 
+### 1. Education 👾
 > #### Hanyang University, Seoul
 * Bachelor of Electrical Engineering, Feb 2022
 
 <br>
 
-### 2. Work Experience
+### 2. Work Experience 🎶
 > #### Samsung Electronics, Suwon
 * Family Hub Circuit Designer, 2021
 * Battery Module Engineer(Pack, BMS Circut), 2022 ~
