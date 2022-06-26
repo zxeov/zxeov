@@ -1,4 +1,4 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=160&text=🍋JiseobAn&fontAlign=78&fontAlignY=30&color=gradient&fontSize=45)   
+![waving](https://capsule-render.vercel.app/api?type=waving&height=160&text=⚡JiseobAn&fontAlign=78&fontAlignY=30&color=gradient&fontSize=45)   
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 <p align="center">
@@ -23,4 +23,4 @@
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/108216187/175809517-ce9379e0-334b-459c-85a1-2838ab6ce3ec.jpg" height="600" width="600">
+<img src="https://user-images.githubusercontent.com/108216187/175809517-ce9379e0-334b-459c-85a1-2838ab6ce3ec.jpg" height="200" width="200">
